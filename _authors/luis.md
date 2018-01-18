@@ -4,14 +4,14 @@ permalink: luis
 
 # Info for the page layout
 team: dam
-shortname: Miembro
-fullname: Este personaje es un misterio...
-website: http://goyobot.github.io
-github: goyobot
-twitter: goyobot
+shortname: Eirine
+fullname: arrobamanlester69
+website: https://www.instagram.com/arrobamanlester69/
+github: https://github.com/arrobaEirine
+twitter: https://twitter.com/AlfaDelta_Pussy
 icon: assets/img/members/default.png
 ---
 
-Miebro de Goyobot.
+Miembro de Goyobot.
   
 Aún no tiene descripción, pero te aseguramos que toma microchips con leche para desayunar. 💪
